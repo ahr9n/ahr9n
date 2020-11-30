@@ -1,16 +1,28 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+</p>
 
-<!--
-**AHR9N/AHR9N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Assalamualaikum 👋! </h1>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+   <p align="center">
+        <a href="https://twitter.com/AHR9N"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+        <a href="https://www.linkedin.com/in/ahmad-abdulrahmaan"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+        <a href="https://ask.fm/Ahmed_Alkbnsh"><img src="https://img.shields.io/badge/-Ask.fm-red"/></a>
+        <a href="https://codeforces.com/Voldmort"><img src="https://img.shields.io/badge/Codeforces.com-Voldmort-yellowgreen"/></a>
+        <img src="https://komarev.com/ghpvc/?username=ahr9n&label=Profile%20views&color=0e75b6&style=flat" alt="ahr9n" />
+    </p>
+
+<div align="center">
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AHR9N&show_icons=true&theme=radical)
+
+</div>
