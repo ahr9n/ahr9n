@@ -13,10 +13,12 @@
     </p>
 
 <div align="center">
-  
+
+[![Visits Badge](https://badges.pufler.dev/visits/AHR9N)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/AHR9N)](https://badges.pufler.dev)
-[![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)](https://commits.top/egypt.html)
 [![Repos Badge](https://badges.pufler.dev/repos/AHR9N)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/AHR9N)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/AHR9N)](https://badges.pufler.dev)
 <img src="https://komarev.com/ghpvc/?username=ahr9n&label=Profile%20views&color=0e75b6&style=flat" alt="ahr9n" />
 
 </div>
