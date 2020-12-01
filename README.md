@@ -4,12 +4,6 @@
 
 <h1 align="center"> Assalamualaikum 👋! </h1>
 
-<div align="center">      
-  
-  [![Updated Badge](https://badges.pufler.dev/updated/AHR9N/git-badges)](https://badges.pufler.dev)
-  
-</div>
-
    <p align="center">
         <a href="https://twitter.com/AHR9N"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
         <a href="https://www.linkedin.com/in/ahmad-abdulrahmaan"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -18,6 +12,14 @@
         <img src="https://komarev.com/ghpvc/?username=ahr9n&label=Profile%20views&color=0e75b6&style=flat" alt="ahr9n" />
     </p>
 
+<div align="center">
+  
+[![Years Badge](https://badges.pufler.dev/years/AHR9N)](https://badges.pufler.dev)
+[![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)](https://commits.top/egypt.html)
+[![Repos Badge](https://badges.pufler.dev/repos/AHR9N)](https://badges.pufler.dev)
+<img src="https://komarev.com/ghpvc/?username=ahr9n&label=Profile%20views&color=0e75b6&style=flat" alt="ahr9n" />
+
+</div>
 
 <div align="center">
 
