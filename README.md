@@ -4,8 +4,10 @@
 
 <h1 align="center"> Assalamualaikum 👋! </h1>
 
-<div align="center">
-
+<div align="center">      
+  
+  [![Updated Badge](https://badges.pufler.dev/updated/AHR9N/git-badges)](https://badges.pufler.dev)
+  
 </div>
 
    <p align="center">
@@ -15,6 +17,7 @@
         <a href="https://codeforces.com/profile/Voldmort"><img src="https://img.shields.io/badge/Codeforces.com-Voldmort-yellowgreen"/></a>
         <img src="https://komarev.com/ghpvc/?username=ahr9n&label=Profile%20views&color=0e75b6&style=flat" alt="ahr9n" />
     </p>
+
 
 <div align="center">
 
