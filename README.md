@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Repos Badge](https://badges.pufler.dev/repos/AHR9N)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/AHR9N)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/daily/AHR9N)](https://badges.pufler.dev)
 <img src="https://komarev.com/ghpvc/?username=ahr9n&label=Profile%20views&color=0e75b6&style=flat" alt="ahr9n" />
 
 </div>
