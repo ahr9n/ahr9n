@@ -2,10 +2,9 @@
 
 <div align="center">  
    
-   <img src="https://komarev.com/ghpvc/?username=ahr9n&label=Profile%20views&color=0e75b6&style=flat" alt="ahr9n"/>
-   
    [![Repos Badge](https://badges.pufler.dev/repos/AHR9N)](https://github.com/AHR9N?tab=repositories)
-   
+   <img src="https://komarev.com/ghpvc/?username=ahr9n&label=Profile%20views&color=0e75b6&style=flat" alt="ahr9n"/>
+
 </div>
 
    <p align="center">
