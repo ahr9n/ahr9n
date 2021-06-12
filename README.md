@@ -13,7 +13,7 @@
       <a href="https://codeforces.com/profile/RetiredRadwan"><img src="https://img.shields.io/badge/Codeforces.com-RetiredRadwan-darkblue"/></a>
    </p>
 
-   ![Ahmad AbdulRahman's github stats](https://github-readme-stats.vercel.app/api?username=ahr9n&theme=vue&show_icons=true&include_all_commits=true&count_private=true)
+   ![Ahmad AbdulRahman's github stats](https://github-readme-stats.vercel.app/api?username=ahr9n&theme=vue&show_icons=true&count_private=true)
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahr9n&show_icons=true&layout=compact&theme=vue&langs_count=15&card_width=445)
 
 </div>
