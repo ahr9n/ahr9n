@@ -7,7 +7,7 @@
             }
             svg {
                 font-family: Helvetica, sans-serif;
-                font-size: 10em;
+                font-size: 8em;
                 display: block;
                 width: 1100px;
                 height: 300px;
