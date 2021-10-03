@@ -11,13 +11,13 @@
                 display: block;
                 width: 960px;
                 height: 300px;
-                margin: auto auto;
+                margin: 0 auto;
             }
             .text-copy {
                 fill: none;
                 stroke: white;
                 stroke-dasharray: 4% 16%;
-                stroke-width: 6px;
+                stroke-width: 4px;
                 stroke-linecap: round;
                 stroke-dashoffset: 0%;
                 animation: stroke-offset 4s infinite linear;
