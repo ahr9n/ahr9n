@@ -9,7 +9,7 @@
                 font-family: Helvetica, sans-serif;
                 font-size: 10em;
                 display: block;
-                width: 1500px;
+                width: 960px;
                 height: 300px;
                 margin: auto auto;
             }
