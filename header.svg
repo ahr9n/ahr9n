@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 1500 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <style type="text/css">
             html, body{
@@ -7,17 +7,17 @@
             }
             svg {
                 font-family: Helvetica, sans-serif;
-                font-size: 7em;
-                
+                font-size: 10em;
+                display: block;
                 width: 1100px;
                 height: 300px;
-                margin: 0 auto;
+                margin: auto auto;
             }
             .text-copy {
                 fill: none;
                 stroke: white;
                 stroke-dasharray: 4% 16%;
-                stroke-width: 5px;
+                stroke-width: 6px;
                 stroke-linecap: round;
                 stroke-dashoffset: 0%;
                 animation: stroke-offset 4s infinite linear;
