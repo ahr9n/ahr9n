@@ -7,7 +7,7 @@
             }
             svg {
                 font-family: Helvetica, sans-serif;
-                font-size: 8em;
+                font-size: 7em;
                 display: block;
                 width: 1100px;
                 height: 300px;
@@ -17,7 +17,7 @@
                 fill: none;
                 stroke: white;
                 stroke-dasharray: 4% 16%;
-                stroke-width: 4px;
+                stroke-width: 5px;
                 stroke-linecap: round;
                 stroke-dashoffset: 0%;
                 animation: stroke-offset 4s infinite linear;
