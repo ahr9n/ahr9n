@@ -1,0 +1,57 @@
+<svg viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <style type="text/css">
+            html, body{
+                height: 100%;
+                font-weight: 800;
+            }
+            svg {
+                font-family: Helvetica, sans-serif;
+                font-size: 10em;
+                display: block;
+                width: 960px;
+                height: 300px;
+                margin: 0 auto;
+            }
+            .text-copy {
+                fill: none;
+                stroke: white;
+                stroke-dasharray: 4% 16%;
+                stroke-width: 4px;
+                stroke-linecap: round;
+                stroke-dashoffset: 0%;
+                animation: stroke-offset 4s infinite linear;
+            }
+            .text-copy:nth-child(1){
+                stroke: #23CE6B;
+                animation-delay: 0s;
+            }
+            .text-copy:nth-child(2){
+                stroke: #324376;
+                animation-delay: -1s;
+            }
+            .text-copy:nth-child(3){
+                stroke: #3891A6;
+                animation-delay: -2s;
+            }
+            .text-copy:nth-child(4){
+                stroke: #F97068;
+                animation-delay: -3s;
+            }
+            @keyframes stroke-offset{
+                100% {stroke-dashoffset: -20%;}
+            }
+        </style>
+    </defs>
+
+    <symbol id="s-text">
+        <text text-anchor="middle" x="50%" y="80%">Ahmad Abdulrahman</text>
+    </symbol>
+
+    <g class="g-ants">
+        <use xlink:href="#s-text" class="text-copy"></use>
+        <use xlink:href="#s-text" class="text-copy"></use>
+        <use xlink:href="#s-text" class="text-copy"></use>
+        <use xlink:href="#s-text" class="text-copy"></use>
+    </g>
+</svg>
