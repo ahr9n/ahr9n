@@ -26,5 +26,6 @@
 <!-- <div align="center">  
    
    ![Ahmad AbdulRahman's github stats](https://github-readme-stats.vercel.app/api?username=ahr9n&theme=vue&show_icons=true&count_private=true)
+   <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=ahr9n&theme=xcode"/>
 
 </div> -->
