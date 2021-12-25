@@ -27,5 +27,6 @@
    
    ![Ahmad AbdulRahman's github stats](https://github-readme-stats.vercel.app/api?username=ahr9n&theme=vue&show_icons=true&count_private=true)
    <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=ahr9n&theme=xcode"/>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahr9n&show_icons=true&layout=compact&theme=gruvbox&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 </div> -->
