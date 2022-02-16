@@ -18,7 +18,7 @@
 
 #### About me:
 
-* Senior Computer Engineering Student, graduating in 2022. 🌱
+* Senior Computer Engineering Student, graduating in August 2022. 🌱
 * I am passionate about algorithmic challenges and data structures and <!-- constantly enthusing to compete in programming competitions like ACM ICPC. I am --> interested in exciting R&D positions in software industry. 
 * I am also interested in applying different NLP tasks on Arabic and currently working on my graduation project. 🔭
 * I like to volunteer and help others; if you think I can help you, don't hesitate to contact me! ⚡
